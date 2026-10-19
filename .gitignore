@@ -1,0 +1,21 @@
+# AI Agent & Antigravity Kit directories
+.agents/
+.agents
+.agent/
+.agent
+agents/
+.shared/
+rules/
+scripts/
+skills/
+workflows/
+tasks/
+mcp_config.json
+ARCHITECTURE.md
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
