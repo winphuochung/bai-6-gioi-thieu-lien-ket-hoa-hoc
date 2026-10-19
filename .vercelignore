@@ -1,0 +1,14 @@
+.agents/
+.agent/
+agents/
+.shared/
+rules/
+scripts/
+skills/
+workflows/
+tasks/
+google-apps-script/
+DESIGN_SITEMAP_WIREFRAME.md
+ARCHITECTURE.md
+mcp_config.json
+Screenshot*.png
