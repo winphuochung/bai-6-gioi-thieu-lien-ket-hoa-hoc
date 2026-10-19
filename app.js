@@ -10,7 +10,7 @@ const STORAGE_KEYS = {
 };
 
 // Mặc định URL Google Apps Script (Giáo viên có thể cập nhật trực tiếp tại đây hoặc trên giao diện)
-const DEFAULT_GAS_WEB_APP_URL = '';
+const DEFAULT_GAS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxWPgjCoHP3EMGuhPSGGz2hGazho0kurPczJq-du3khRafjnGHfc8HXVmTwUUkuY4EVAw/exec';
 
 const state = {
   studentName: '',
